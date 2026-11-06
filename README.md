@@ -1,204 +1,92 @@
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi"/>
+  <img src="koi/koi.gif" width="220" alt="Daily contribution koi"/>
+</p>
+
+<h1 align="center">Pratham Bhagat</h1>
+
+<p align="center">
+  <strong>System Engineer</strong> · C · Linux internals · performance
 </p>
 
 <p align="center">
-  <img src="matrix-banner.svg" width="100%" alt="Pratham Bhagat matrix banner"/>
+  <a href="https://instagram.com/gottalove.pratham"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=Instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/pratham-bhagat-38489a39b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <img src="https://img.shields.io/github/followers/rathambhagat?style=flat-square&logo=github&color=238636&label=Followers" alt="GitHub Followers"/>
+</p>
+
+---
+
+### `$ whoami`
+
+Based in India. I write systems software in C, chase latency into the cache hierarchy, and debug until the profiler has nothing left to blame. Learning in public — one careful `malloc` at a time.
+
+> *Segmentation fault (core dumped) — also, occasionally, my autobiography.*
+
+---
+
+### `$ stack`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
+
+---
+
+### `$ tools`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Valgrind-352A71?style=for-the-badge&logo=v&logoColor=white" alt="Valgrind"/>
+  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB"/>
+  <img src="https://img.shields.io/badge/perf-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="perf"/>
+  <img src="https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=linux&logoColor=white" alt="eBPF"/>
+  <img src="https://img.shields.io/badge/strace-000000?style=for-the-badge&logo=linux&logoColor=white" alt="strace"/>
+  <img src="https://img.shields.io/badge/ltrace-333333?style=for-the-badge&logo=linux&logoColor=white" alt="ltrace"/>
+</p>
+
+---
+
+### `$ infra`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+### `$ analytics`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rathambhagat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rathambhagat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rathambhagat&label=👾+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://streak-stats.demolab.com?user=rathambhagat&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </p>
+
+---
+
+### `$ focus`
+
+- Building low-latency, cache-conscious systems software
+- Deepening compiler / runtime intuition and Linux observability
+- Chasing real-world latency: branch prediction, false sharing, and honest measurement
+- Fuel: caffeine and a healthy distrust of `volatile`
+
+---
 
 <p align="center">
-  <a href="https://instagram.com/gottalove.pratham"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/pratham-bhagat-38489a39b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <sub>Made with care, caffeine, and a healthy fear of undefined behavior.</sub>
 </p>
-
-<!-- GitHub Badges (always work) -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/rathambhagat?style=for-the-badge&logo=github&color=0e75b6&label=Followers" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/rathambhagat?style=for-the-badge&logo=github&color=gold&label=Total%20Stars" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/last-commit/rathambhagat/rathambhagat?style=for-the-badge&logo=github&color=green" alt="Last Commit"/>
-</p>
-
----
-
-<table>
-  <tr>
-    <td valign="middle">
-      <h2>System Engineer • Low-Level Sorcerer</h2>
-      <p>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.</p>
-      <p><em>"Segmentation fault (core dumped) —<br/>also my autobiography."</em></p>
-    </td>
-    <td valign="middle">
-      <img src="monkey.gif" width="320" alt="Monkey coding on computer"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal+%F0%9F%92%80;Making+segfaults+beautiful+%F0%9F%92%A5;One+cache+line+at+a+time+%E2%9A%A1;malloc(sizeof(cookie))+for+you+%F0%9F%8D%AA" alt="Typing SVG"/>
-
-</div>
-
----
-
-## `$ whoami`
-
-🇮🇳 Based in India. I write C until the machine begs for mercy. I optimize systems until the profiler runs out of things to blame. I debug at 3 AM without StackOverflow — not by choice, but because that's what the segfault demands.
-
----
-
-## 🛠️ Tech Stack
-
-### ⚔️ Languages
-
-| Badge | Language | Relationship Status |
-|:---:|:---|:---|
-| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | **C** | 💀 Till death do us part |
-| ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) | **Assembly** | 🫡 Respect, not love |
-| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | **C++** | 🤝 We talk at parties |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | **Python** | 🐍 For when I feel lazy |
-
-### 🔬 Weapons of Mass Debugging
-
-<div align="center">
-
-![Valgrind](https://img.shields.io/badge/Valgrind-352A71?style=for-the-badge&logo=v&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
-![perf](https://img.shields.io/badge/perf-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=linux&logoColor=white)
-![strace](https://img.shields.io/badge/strace-000000?style=for-the-badge&logo=linux&logoColor=white)
-![ltrace](https://img.shields.io/badge/ltrace-444444?style=for-the-badge&logo=linux&logoColor=white)
-
-</div>
-
-### 🧰 Certified Bonus Skills
-
-<div align="center">
-
-![Debugging at 3 AM](https://img.shields.io/badge/Debugging_at_3AM_without_StackOverflow-ff0000?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Reading Assembly Dumps](https://img.shields.io/badge/Reading_Assembly_Dumps_for_Fun-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Blaming the Compiler](https://img.shields.io/badge/Blaming_the_Compiler_First-555555?style=for-the-badge&logo=gnu&logoColor=white)
-
-</div>
-
-### ☁️ Infrastructure
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rathambhagat&theme=gruvbox_light&hide_border=false&cache_seconds=86400" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Contribution Graph — *When I'm not debugging pointers*
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathambhagat&theme=github-dark&hide_border=true&area=true&title_color=00FF00&bg_color=0D1117&line=00FF00&point=00FF00&area_color=00FF00" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🐍 Snake Animation
-
-*My contributions being devoured by a snake (the snake is a memory leak)*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating contributions"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" onerror="this.src='https://img.shields.io/badge/Trophies-API%20Unavailable-red?style=for-the-badge&logo=github';"/>
-</div>
-
-> *Note: If trophies don't load, refresh the page or check back later – the API has rate limits. They will appear after a few tries.*
-
----
-
-### ⚡ Current Quest
-
-- 🔨 **Building:** A lock‑free, wait‑free, cache‑oblivious, zero‑copy thing that will probably segfault on first run
-- 📖 **Learning:** How to outsmart the compiler — and my past self
-- ⚡ **Solving:** Real‑world latency problems, one cache line at a time
-- 🔍 **Obsessing over:** CPU branch prediction, false sharing, and why `volatile` is a lie
-- ☕ **Fuel:** Mass amounts of caffeine + undefined behavior
-
----
-
-### 🤡 Fun Corner
-
-- 🧠 "My code runs on the first try… in an alternate dimension."
-- 💀 "Segmentation fault (core dumped) — also my autobiography."
-- 🏎️ "I once optimized a loop so hard it finished before I ran it."
-- 🐛 "I treat memory leaks like pets. I name them. I miss them when Valgrind kills them."
-- 📡 "Career goal: replace myself with a shell script. Almost there."
-- 🔥 "When I'm not optimizing: crying over a missing semicolon in C."
-- 🧩 "There are only two hard problems in CS: cache invalidation, naming things, and off‑by‑one errors."
-
-<div align="center">
-
-#### 📹 My Debugging Process (Real Footage)
-
-[![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_My_Debugging_Process-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
-
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.gifer.com/ZZ5H.gif" width="100" alt="Stars"/>
-
-*Made with ❤️, ☕, and a healthy fear of `undefined behavior`.*
-
-**⭐ Star this repo if you've ever cried over a missing semicolon in C.**
-
-**If you made it this far — `malloc(sizeof(cookie))` 🍪 — you've earned it.**
-
-</div>

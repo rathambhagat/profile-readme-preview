@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi"/>
+</p>
+
+<p align="center">
   <img src="matrix-banner.svg" width="100%" alt="Pratham Bhagat matrix banner"/>
 </p>
 
